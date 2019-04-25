@@ -1,0 +1,21 @@
+.post-content-area > .entry-abstract {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.ts-overlay-style > .post-cat {
+  top: 0;
+  left: 0;
+  margin: 0;
+  z-index: 7;
+  position: absolute;
+}
+
+.ts-overlay-style > .item > .detail-link {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 6;
+  position: absolute;
+}
